@@ -10,6 +10,8 @@ namespace Rep
     {
         static void Main(string[] args)
         {
+            int a = 47;
+            Console.WriteLine(a);
         }
     }
 }
